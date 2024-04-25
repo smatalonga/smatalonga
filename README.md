@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smatalonga
 - 👀 I’m interested in all aspects of software development.
 - 🌱 I’m currently learning Angular, and brushing up my outdated Entity Framework knowledge.
-- 📫 How to reach me @:
+- 📫 How to reach me at <a href="thesoftwarecoach.co.uk">thesoftwarecoach.co.uk</a> or through social media:
 <div id="badges">
   <a href="https://www.linkedin.com/in/santiagomatalonga/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
